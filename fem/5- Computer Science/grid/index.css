@@ -1,0 +1,12 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.grid-item {
+  flex: 1;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
